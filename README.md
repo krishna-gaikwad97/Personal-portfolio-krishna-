@@ -22,4 +22,4 @@ JavaScript
 
 🚀 Live Demo
 Portfolio Link
- (https://krishnagaikwad97-portfolio.netlify.app/)
+ (https://krishna-gaikwad97-portfolio.netlify.app/)
